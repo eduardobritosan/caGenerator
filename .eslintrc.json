@@ -19,6 +19,6 @@
         "require-jsdoc":"off",
         "indent":"off",
         "object-curly-spacing":"off",
-        "linebreak-style":"off",
+        "linebreak-style":"off"
     }
 }
